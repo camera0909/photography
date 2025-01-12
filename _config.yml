@@ -15,7 +15,7 @@ header:
 footer:
  name: "About Me"
  bio: "-Photography Hobbyist Ultra Pro Max"
- bio: "-Photography Hobbyist Ultra Pro Max"
+ bioo: "-Photography Hobbyist Ultra Pro Max"
  github: " Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
  web_design: ""
 # Configure which exif data to display
