@@ -10,13 +10,13 @@ title: "Jackie Photography Studio"
 subtitle: "Capture the Moments!"
 author: "Jackie Liu"
 header:
- title: "Jackie Liu"
- subtitle: "Photography"
+ title: "Jackie"
+ subtitle: "Photography Studio"
 footer:
  name: "Hey there, my name is Ram"
  bio: "I 12345"
  github: " Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
- web_design: "AJ"
+ web_design: ""
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
