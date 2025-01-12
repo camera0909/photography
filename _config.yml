@@ -13,8 +13,9 @@ header:
  title: "Jackie"
  subtitle: "Photography Studio"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I 12345"
+ name: "About Me"
+ bio: "-Photography Hobbyist Ultra Pro Max"
+ bio: "-Photography Hobbyist Ultra Pro Max"
  github: " Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
  web_design: ""
 # Configure which exif data to display
